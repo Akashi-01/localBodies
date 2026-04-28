@@ -1,0 +1,899 @@
+stateCode,stateNameEnglish,districtCode,districtNameEnglish,subdistrictCode,subdistrictNameEnglish,villageCode,villageNameEnglish,pincode
+16,Tripura,269,Dhalai,6697,Ambassa,922862,Ambassa,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272510,Baluchhera,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272516,Batabari,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272520,Gangaprasadpara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272502,Gurudhanpara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272514,Khowaipar,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272493,Lalchhari,799204
+16,Tripura,269,Dhalai,6697,Ambassa,272509,Lalchhera,799273
+16,Tripura,269,Dhalai,6697,Ambassa,272497,Raipasa,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272518,Sardingkhapara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272512,Tetaiya,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272507,Ulemchhera,799289
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272573,Paschim Potachhera,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272572,Purba Potachhera,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272562,Ramnagar,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272558,Ratannagar,799284
+16,Tripura,269,Dhalai,6681,Kamalpur,272453,Abhangha,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272439,Bamanchhera,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272440,Chulubari,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272454,Jamthumbari,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272432,Lambuchhera,799287
+16,Tripura,269,Dhalai,6681,Kamalpur,272451,Panboa,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272460,Purba Daluchhera,799278
+16,Tripura,269,Dhalai,6681,Kamalpur,272455,Simbhuchak,799278
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272535,Debchhera,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272467,Demchhera,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272524,Joychandrapara,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272470,Kanchanchhera,799266
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272468,Karatichhera,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272533,Manikpur,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272528,Uttar Longtarai,799275
+16,Tripura,654,Gomati,6695,Amarpur,272193,Ampichhera,799101
+16,Tripura,654,Gomati,6695,Amarpur,272190,Baisyamanipara,799101
+16,Tripura,654,Gomati,6695,Amarpur,272197,Chenchua,799101
+16,Tripura,654,Gomati,6695,Amarpur,272194,Gamaichhera,799101
+16,Tripura,654,Gomati,6695,Amarpur,272182,Palkuchhera,799101
+16,Tripura,654,Gomati,6695,Amarpur,272166,Rangamati,799101
+16,Tripura,654,Gomati,6695,Amarpur,272173,Rangkang,799101
+16,Tripura,654,Gomati,6690,Karbook,272344,Dakshin Chelagang,799104
+16,Tripura,654,Gomati,6690,Karbook,272368,Gorakapa,799104
+16,Tripura,654,Gomati,6690,Karbook,272360,Lebachhera,799104
+16,Tripura,654,Gomati,6690,Karbook,272352,Purba Manikyadewan,799104
+16,Tripura,654,Gomati,6690,Karbook,272367,Suknachhari,799104
+16,Tripura,654,Gomati,6693,Udaipur,272239,Amtali,799105
+16,Tripura,654,Gomati,6693,Udaipur,272145,Bagma,799113
+16,Tripura,654,Gomati,6693,Udaipur,272226,Chandrapur Reserve Forest,799013
+16,Tripura,654,Gomati,6693,Udaipur,272232,Chapia Para,799120
+16,Tripura,654,Gomati,6693,Udaipur,272254,Dhuptali,799105
+16,Tripura,654,Gomati,6693,Udaipur,272235,Fulkumari,799013
+16,Tripura,654,Gomati,6693,Udaipur,272248,Gangachhera,799125
+16,Tripura,654,Gomati,6693,Udaipur,272223,Garji Reserve Forest,799125
+16,Tripura,654,Gomati,6693,Udaipur,272253,Jitendranagar,799105
+16,Tripura,654,Gomati,6693,Udaipur,272159,Lakshmipati,799013
+16,Tripura,654,Gomati,6693,Udaipur,272236,Matarbari,799013
+16,Tripura,654,Gomati,6693,Udaipur,272241,Palatana,799105
+16,Tripura,654,Gomati,6693,Udaipur,272212,Pitra,799114
+16,Tripura,654,Gomati,6693,Udaipur,272209,Tepania,799113
+16,Tripura,654,Gomati,6693,Udaipur,272216,Uttar Maharani,799013
+16,Tripura,652,Khowai,6684,Khowai,271888,Bagabil,799201
+16,Tripura,652,Khowai,6684,Khowai,271918,Chamubasti,799201
+16,Tripura,652,Khowai,6684,Khowai,271907,Ganki,799201
+16,Tripura,652,Khowai,6684,Khowai,271904,Paglabari,799207
+16,Tripura,652,Khowai,6684,Khowai,271908,Paharmura,799201
+16,Tripura,652,Khowai,6684,Khowai,271927,Paschim Bachaibari,799201
+16,Tripura,652,Khowai,6684,Khowai,271921,Paschim Karangichhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271934,Purba Rajnagar,799201
+16,Tripura,652,Khowai,6684,Khowai,271939,Yajnakabrabari,799207
+16,Tripura,652,Khowai,6698,Teliamura,271953,Dakshin Maharani,799205
+16,Tripura,652,Khowai,6698,Teliamura,271952,Ghilatali,799203
+16,Tripura,652,Khowai,6698,Teliamura,271960,Hawaibari,799205
+16,Tripura,652,Khowai,6698,Teliamura,271951,Kamalnagar,799203
+16,Tripura,652,Khowai,6698,Teliamura,271954,Krishnapur,799203
+16,Tripura,652,Khowai,6698,Teliamura,271947,Kunjaban,799203
+16,Tripura,652,Khowai,6698,Teliamura,271945,Uttar Ghilatali,799203
+16,Tripura,270,North Tripura,6691,Dharmanagar,272615,Brajendranagar,799261
+16,Tripura,270,North Tripura,6691,Dharmanagar,272655,Dewanpassa,799254
+16,Tripura,270,North Tripura,6691,Dharmanagar,272638,Ganganagar,799253
+16,Tripura,270,North Tripura,6691,Dharmanagar,272645,Paschim Tilthai,799260
+16,Tripura,270,North Tripura,6691,Dharmanagar,272616,Piarachhera,799261
+16,Tripura,270,North Tripura,6691,Dharmanagar,272635,Radhapur,799253
+16,Tripura,270,North Tripura,6691,Dharmanagar,272641,Uptakhali,799260
+16,Tripura,270,North Tripura,6685,Kanchanpur,272735,Kalagang,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272723,Kalapani,799271
+16,Tripura,270,North Tripura,6685,Kanchanpur,272725,Ramprasaipara,799271
+16,Tripura,270,North Tripura,6685,Kanchanpur,272713,Shibnagar,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272740,Simblong,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272708,Ujjan Machhmara Reserve Forest,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272736,Vangmun,799269
+16,Tripura,270,North Tripura,6678,Panisagar,272653,Dakshin Padmabill,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272663,Narendranagar,799256
+16,Tripura,270,North Tripura,6678,Panisagar,272659,Pipalachhera,799256
+16,Tripura,270,North Tripura,6678,Panisagar,272660,Rahumchhera,799260
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272076,Barjala,799103
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272063,Brajapur,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272057,Dakshin Champamura,799130
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272065,Gajaria,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272051,Madhupur,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272049,Radhanagar,799102
+16,Tripura,653,Sepahijala,6677,Jampuijala,923606,Chhoygharia,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272044,Hirapur,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272078,Pathaliaghat,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272077,Pramodnagar,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272033,Shyamnagar,799011
+16,Tripura,653,Sepahijala,6680,Sonamura,272102,Bagabasa,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272086,Boxanagar,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272112,Ghrantali,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272139,Himmatpur,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272116,Kamrangatali,799105
+16,Tripura,271,South Tripura,6687,Belonia,272258,Dakshin Krishnapur,799157
+16,Tripura,271,South Tripura,6687,Belonia,272277,Kashari Reserve Forest,799150
+16,Tripura,271,South Tripura,6687,Belonia,272270,Prakashnagar,799150
+16,Tripura,271,South Tripura,6687,Belonia,272268,Purba Anandapur,799157
+16,Tripura,271,South Tripura,6687,Belonia,272272,Rajnagar,799150
+16,Tripura,271,South Tripura,6687,Belonia,272288,Ratanpur,799142
+16,Tripura,271,South Tripura,6687,Belonia,272302,Tekka Reserve Forest,799156
+16,Tripura,271,South Tripura,6687,Belonia,272289,Tekkatulsi Reserve Forest,799156
+16,Tripura,271,South Tripura,6688,Sabroom,272415,Bijoynagar,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272416,Dolbari,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272375,Gaurifa,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272405,Harina,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272410,Krishnanagar,799156
+16,Tripura,271,South Tripura,6688,Sabroom,272401,Manubazar,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272379,Paschim Ludhua,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272376,Rupaichhari,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272392,Sakbari,799141
+16,Tripura,271,South Tripura,6688,Sabroom,272372,Uttar Manubangkul,799143
+16,Tripura,271,South Tripura,6683,Santirbazar,272323,Baikora,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272309,Birchandranagar,799125
+16,Tripura,271,South Tripura,6683,Santirbazar,272332,Jolaibari,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272318,Laugang,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272337,Madhya Pilak,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272334,Paschim Muhuripur,799142
+16,Tripura,271,South Tripura,6683,Santirbazar,272310,Paschim Patichhari,799125
+16,Tripura,271,South Tripura,6683,Santirbazar,272308,Purba Manu,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272321,Raibari,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272315,Santirbazar,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272328,Uttar Barpatiroy,799141
+16,Tripura,655,Unakoti,6682,Kailashahar,272605,Birchandranagar,799280
+16,Tripura,655,Unakoti,6682,Kailashahar,272586,Deorachhera,799279
+16,Tripura,655,Unakoti,6682,Kailashahar,272590,Gournagar,799282
+16,Tripura,655,Unakoti,6682,Kailashahar,272610,Jalai,799280
+16,Tripura,655,Unakoti,6682,Kailashahar,272591,Kamrangabari,799282
+16,Tripura,655,Unakoti,6682,Kailashahar,272607,Kaulikura,799280
+16,Tripura,655,Unakoti,6682,Kailashahar,272581,Lakshmipur,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272612,Uttar Unakoti Reserve Forest,799282
+16,Tripura,655,Unakoti,6694,Kumarghat,272673,Birchandranagar,799280
+16,Tripura,655,Unakoti,6694,Kumarghat,272693,Gokulnagar,799290
+16,Tripura,655,Unakoti,6694,Kumarghat,272688,Jagannathpur,799280
+16,Tripura,655,Unakoti,6694,Kumarghat,272670,Lakshmanchhera,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272672,Pecharthal,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272684,Rabiraipara,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272685,Rajkandi,799290
+16,Tripura,655,Unakoti,6694,Kumarghat,272697,Saydachhera,799264
+16,Tripura,272,West Tripura,6679,Jirania,272012,Champabari,799045
+16,Tripura,272,West Tripura,6689,Mohanpur,271875,Baikunthapur,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271873,Baluaban,799212
+16,Tripura,272,West Tripura,6689,Mohanpur,271848,Bijoynagar,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271860,Budhjangnagar,799008
+16,Tripura,272,West Tripura,6689,Mohanpur,271871,Sankhola,799212
+16,Tripura,272,West Tripura,6689,Mohanpur,271877,Subalsingh,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271879,Surendranagar,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271882,Thamakari,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271870,Uttar Dasgharia,799212
+16,Tripura,272,West Tripura,6696,Sadar,923541,Agartala Sheet No-10,799001
+16,Tripura,272,West Tripura,6696,Sadar,922832,Agartala Sheet No-11,799001
+16,Tripura,272,West Tripura,6696,Sadar,922846,Agartala Sheet No-15,799001
+16,Tripura,272,West Tripura,6696,Sadar,922860,Agartala Sheet No-19,799001
+16,Tripura,272,West Tripura,6696,Sadar,922851,Agartala Sheet No-21,799001
+16,Tripura,272,West Tripura,6696,Sadar,922854,Agartala Sheet No-5,799001
+16,Tripura,272,West Tripura,6696,Sadar,922836,Agartala Sheet No-9,799001
+16,Tripura,272,West Tripura,6696,Sadar,272025,Dukli,799003
+16,Tripura,272,West Tripura,6696,Sadar,272021,Kanchanmala,799130
+16,Tripura,272,West Tripura,6696,Sadar,922857,Pratapgarh,799004
+16,Tripura,272,West Tripura,6696,Sadar,272022,Srinagar,799004
+16,Tripura,269,Dhalai,6697,Ambassa,272503,Harimangalpara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272489,Paschim Nalichhera,799204
+16,Tripura,269,Dhalai,6697,Ambassa,272517,Pustaraipara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272519,Radharambari,799289
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272537,Jagabandhupara,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272556,Joyrampur,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272566,Kamala Asram,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272548,Lakshmipur,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272555,Purba Kalyansing,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272561,Ranipukur,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272545,Utachhera,799284
+16,Tripura,269,Dhalai,6681,Kamalpur,272450,Aparaskar,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272431,Bishnupur,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272446,Chankap,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272437,Chhetrai,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272436,Chotosurma,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272423,Ganganagar,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272427,Halhuli,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272463,Kachuchhera,799278
+16,Tripura,269,Dhalai,6681,Kamalpur,922801,Kalachhari,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,922867,Kamalpur,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272430,Mayachhari,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272428,Panchasi,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272420,Uttar Bilaschhera,799285
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272484,Chhailengta,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272481,Jamirchhera,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272466,Kanthalchhera,799288
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272473,Purba Karamchhera,799266
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272478,Purba Machli,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272471,Ultachhera,799266
+16,Tripura,654,Gomati,6695,Amarpur,272191,Ampinagar,799101
+16,Tripura,654,Gomati,6695,Amarpur,272175,Baramura Debatamura Reserve Forest,799101
+16,Tripura,654,Gomati,6695,Amarpur,272168,Birganj,799101
+16,Tripura,654,Gomati,6695,Amarpur,272167,Ghungia,799101
+16,Tripura,654,Gomati,6695,Amarpur,272201,Kamlaipara,799101
+16,Tripura,654,Gomati,6695,Amarpur,272195,Melchhi,799101
+16,Tripura,654,Gomati,6695,Amarpur,272161,Paschim Kalajhari Reserve Forest,799101
+16,Tripura,654,Gomati,6695,Amarpur,272563,Purba Kalajhari Reserve Forest,799101
+16,Tripura,654,Gomati,6695,Amarpur,272162,Purba Sarbang,799101
+16,Tripura,654,Gomati,6695,Amarpur,272174,Rajkang,799101
+16,Tripura,654,Gomati,6695,Amarpur,272199,Sonachhera,799101
+16,Tripura,654,Gomati,6695,Amarpur,272176,Tairbhuma,799101
+16,Tripura,654,Gomati,6695,Amarpur,272183,Uttar Taidu,799101
+16,Tripura,654,Gomati,6690,Karbook,272387,Bagachatal,799104
+16,Tripura,654,Gomati,6690,Karbook,272365,Barabil,799104
+16,Tripura,654,Gomati,6690,Karbook,272357,Dakshin Karbook,799104
+16,Tripura,654,Gomati,6690,Karbook,272348,Jarimura,799104
+16,Tripura,654,Gomati,6690,Karbook,272366,Silachhari,799104
+16,Tripura,654,Gomati,6693,Udaipur,272156,Dakshin Brajendranagar,799114
+16,Tripura,654,Gomati,6693,Udaipur,272220,Dakshin Chandrapur,799013
+16,Tripura,654,Gomati,6693,Udaipur,272233,Dhwajanagar,799114
+16,Tripura,654,Gomati,6693,Udaipur,272238,Garjanmura,799113
+16,Tripura,654,Gomati,6693,Udaipur,272217,Hirapur,799013
+16,Tripura,654,Gomati,6693,Udaipur,272246,Kakraban,799105
+16,Tripura,654,Gomati,6693,Udaipur,272205,Karaiyamura,799013
+16,Tripura,654,Gomati,6693,Udaipur,272244,Murapara,799013
+16,Tripura,654,Gomati,6693,Udaipur,272222,Paschim Magpushkarini,799105
+16,Tripura,654,Gomati,6693,Udaipur,272158,Photamati,799013
+16,Tripura,654,Gomati,6693,Udaipur,272157,Purba Brajendranagar,799114
+16,Tripura,654,Gomati,6693,Udaipur,272225,Purba Magpushkarini,799105
+16,Tripura,654,Gomati,6693,Udaipur,922820,Rajarbag,799114
+16,Tripura,654,Gomati,6693,Udaipur,272208,Salgara,799113
+16,Tripura,654,Gomati,6693,Udaipur,272237,Shilghati,799105
+16,Tripura,654,Gomati,6693,Udaipur,272150,Uttar Baramura Debtamura Reserve Forest,799120
+16,Tripura,652,Khowai,6684,Khowai,271920,Asharambari,799201
+16,Tripura,652,Khowai,6684,Khowai,271893,Gayamanibari,799201
+16,Tripura,652,Khowai,6684,Khowai,271887,Khengrabari,799201
+16,Tripura,652,Khowai,6684,Khowai,271932,Maidanbari,799201
+16,Tripura,652,Khowai,6684,Khowai,271938,Mainakbari,799207
+16,Tripura,652,Khowai,6684,Khowai,271929,Paschim Champachhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271926,Paschim Lakshmichhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271928,Purba Bachaibari,799201
+16,Tripura,652,Khowai,6684,Khowai,271900,Purba Ramchandraghat,799201
+16,Tripura,652,Khowai,6698,Teliamura,271976,Atharamura Reserve Forest,799205
+16,Tripura,652,Khowai,6698,Teliamura,271963,Brahmachhera,799205
+16,Tripura,652,Khowai,6698,Teliamura,271957,Lakshmipur,799205
+16,Tripura,652,Khowai,6698,Teliamura,271959,Tuichindrai,799205
+16,Tripura,652,Khowai,6698,Teliamura,271964,Uttar Gakulnagar,799205
+16,Tripura,270,North Tripura,6691,Dharmanagar,272628,Hurua,799251
+16,Tripura,270,North Tripura,6691,Dharmanagar,272642,Jubarajnagar,799254
+16,Tripura,270,North Tripura,6691,Dharmanagar,272637,Kameswar,799253
+16,Tripura,270,North Tripura,6691,Dharmanagar,272631,Lakshminagar,799262
+16,Tripura,270,North Tripura,6691,Dharmanagar,272634,Paschim Halflong,799254
+16,Tripura,270,North Tripura,6691,Dharmanagar,923596,Rajnagar,799254
+16,Tripura,270,North Tripura,6691,Dharmanagar,272613,Satsangam,799261
+16,Tripura,270,North Tripura,6685,Kanchanpur,272728,Central Catchment Reserve Forest,799271
+16,Tripura,270,North Tripura,6685,Kanchanpur,272727,Gachirampara,799271
+16,Tripura,270,North Tripura,6685,Kanchanpur,272710,Jayantipara,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272719,Kamarmara,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272709,Laljuri,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272732,Paschim Manpui,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272733,Purba Manpui,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272722,Sunitipur,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272721,Taiyangpara,799271
+16,Tripura,270,North Tripura,6678,Panisagar,272650,Bilthai,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272666,Khedachhera,799256
+16,Tripura,270,North Tripura,6678,Panisagar,272651,Pekuchhera,799260
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272066,Bangshibari,799103
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272048,Debipur,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272069,Dhariathal,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272055,Ghaniamara,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272064,Krishna Kishore Nagar,799102
+16,Tripura,653,Sepahijala,6677,Jampuijala,272045,Amarendranagar,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272037,Barmabari,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,935113,Dayaram Para,799102
+16,Tripura,653,Sepahijala,6677,Jampuijala,272041,Kandraichhera,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272028,Pravapur,799130
+16,Tripura,653,Sepahijala,6677,Jampuijala,272035,Purba Takarjala,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272036,Sangkumabari,799011
+16,Tripura,653,Sepahijala,6680,Sonamura,272109,Aralia,799103
+16,Tripura,653,Sepahijala,6680,Sonamura,272094,Bijaynagar,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272099,Chowmuhani,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272124,Dakshin Taibandal,799105
+16,Tripura,653,Sepahijala,6680,Sonamura,272130,Dhanpur,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272087,Kalsimura,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272105,Khas Chowmuhani,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272134,Mahespur,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272131,Paharpur,799101
+16,Tripura,653,Sepahijala,6680,Sonamura,272104,Paschim Nalchar,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272101,Purba Jumerdhepa,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272083,Putia,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272114,Rudijala,799115
+16,Tripura,271,South Tripura,6687,Belonia,272262,Bhairabnagar,799157
+16,Tripura,271,South Tripura,6687,Belonia,272283,Dakshin Bharatchandranagar,799155
+16,Tripura,271,South Tripura,6687,Belonia,272297,Debipur,799155
+16,Tripura,271,South Tripura,6687,Belonia,272281,Lakshmipur,799155
+16,Tripura,271,South Tripura,6687,Belonia,272278,Paikhola,799125
+16,Tripura,271,South Tripura,6687,Belonia,272275,Paschim Peporiakhola,799155
+16,Tripura,271,South Tripura,6687,Belonia,272256,Rangamura,799153
+16,Tripura,271,South Tripura,6687,Belonia,272291,Shibpur,799142
+16,Tripura,271,South Tripura,6687,Belonia,272263,Tebaria,799157
+16,Tripura,271,South Tripura,6688,Sabroom,272363,Bagmara,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272383,Baishnabpur,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272370,Bishnupur,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272381,Dakshin Bijoypur,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272397,Dakshin Kalapania,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272384,Dakshin Sabrum,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272394,Dakshin Taichhama,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272403,Guachand,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272402,Magurchhera,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272399,Phulchhari,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272396,Sindukpathar,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272411,Srinagar,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272407,Tekkatulsi Reserve Forest,799143
+16,Tripura,271,South Tripura,6683,Santirbazar,272324,Paschim Charakbai,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272312,Paschim Manu,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272335,Paschim Pilak,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272333,Purba Muhuripur,799142
+16,Tripura,271,South Tripura,6683,Santirbazar,272303,Purba Patichhari,799125
+16,Tripura,271,South Tripura,6683,Santirbazar,272339,Purba Pilak,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272331,Uttar Hichhachhera,799141
+16,Tripura,655,Unakoti,6682,Kailashahar,272585,Ichhabpur,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272576,Khaurabil,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,272596,Murtichhera,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272588,Pakhirbada,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,272575,Rangauti,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,272598,Rangrung,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272595,Samrurpar,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272609,Sonamukhi,799280
+16,Tripura,655,Unakoti,6682,Kailashahar,272584,Srinathpur,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,272593,Srirampur,799277
+16,Tripura,655,Unakoti,6694,Kumarghat,272690,Dakshin Unakoti Reserve Forest,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272706,Deo Reserve Forest,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272678,Dhanichhera,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272675,Karaichhera,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272687,Krishnanagar,799290
+16,Tripura,655,Unakoti,6694,Kumarghat,272705,Pabiachhera,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272700,Paschim Kanchanbari,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272696,Paschim Ratachhera,799290
+16,Tripura,272,West Tripura,6679,Jirania,272016,Bankimnagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,271990,Khengrai,799045
+16,Tripura,272,West Tripura,6679,Jirania,930575,Lakshmipur,799045
+16,Tripura,272,West Tripura,6679,Jirania,272013,Radhakishorenagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,272000,Tulakuna,799008
+16,Tripura,272,West Tripura,6679,Jirania,271981,Wakkinagar,799035
+16,Tripura,272,West Tripura,6689,Mohanpur,271859,Debendra Chandra Nagar,799210
+16,Tripura,272,West Tripura,6689,Mohanpur,271885,Domrakaridak,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271853,Fatikchhera,799210
+16,Tripura,272,West Tripura,6689,Mohanpur,271866,Gandhigram,799012
+16,Tripura,272,West Tripura,6689,Mohanpur,271851,Kalkalia,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271849,Mohanpur,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271886,Tuichhamankurai,799211
+16,Tripura,272,West Tripura,6696,Sadar,922838,Agartala Sheet No-12,799001
+16,Tripura,272,West Tripura,6696,Sadar,922845,Agartala Sheet No-14,799001
+16,Tripura,272,West Tripura,6696,Sadar,272018,Ishanchandranagar,799003
+16,Tripura,272,West Tripura,6696,Sadar,271865,Singarbil,799009
+16,Tripura,269,Dhalai,6697,Ambassa,272492,Bagmara,799204
+16,Tripura,269,Dhalai,6697,Ambassa,272498,Jagannathpur,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272495,Kamalachhera,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272500,Kanthalbari,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272506,Karamapara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272508,Karnamunipara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272505,Kulai Reserve Forest Extension,799204
+16,Tripura,269,Dhalai,6697,Ambassa,272490,Purba Nalichhera,799204
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272538,Barabari,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272553,Birchandranagar,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272547,Chitrajhari,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272571,Jarulchhera,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272546,Paschim Gandachhera,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272554,Paschim Kalyansingh,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272552,Uttaraipara,799284
+16,Tripura,269,Dhalai,6681,Kamalpur,272448,Baralutma,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272447,Debichhera,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272464,Latiachhera,799278
+16,Tripura,269,Dhalai,6681,Kamalpur,272445,Mahabir,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272457,Maharani,799278
+16,Tripura,269,Dhalai,6681,Kamalpur,272433,Methirmia,799287
+16,Tripura,269,Dhalai,6681,Kamalpur,272456,Michhuria,799278
+16,Tripura,269,Dhalai,6681,Kamalpur,272459,Paschim Daluchhera,799278
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272536,Central Catchment Reserve Forest,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272477,Dakshin Dhumachhera,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272483,Gaynama,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272485,Ghagrachhera,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272479,Jarulchhera,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272531,Makarchhera,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272488,Manu,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272474,Paschim Karamchhera,799266
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272534,Purba Chhamanu,799273
+16,Tripura,654,Gomati,6695,Amarpur,922861,Amarpur,799101
+16,Tripura,654,Gomati,6695,Amarpur,272184,Jambukchhera,799101
+16,Tripura,654,Gomati,6695,Amarpur,272178,Paschim Duluma,799101
+16,Tripura,654,Gomati,6695,Amarpur,272170,Purba Malbasa,799101
+16,Tripura,654,Gomati,6695,Amarpur,272196,Uttar Chhangang,799101
+16,Tripura,654,Gomati,6690,Karbook,272342,Baramura Debatamura Reserve Forest,799104
+16,Tripura,654,Gomati,6690,Karbook,272356,Purba Karbook,799104
+16,Tripura,654,Gomati,6693,Udaipur,272251,Badurpathar,799120
+16,Tripura,654,Gomati,6693,Udaipur,272206,Bagabasa,799113
+16,Tripura,654,Gomati,6693,Udaipur,272204,Barabhaiya,799113
+16,Tripura,654,Gomati,6693,Udaipur,272227,Dakshin Maharani,799013
+16,Tripura,654,Gomati,6693,Udaipur,272228,Gandhari,799013
+16,Tripura,654,Gomati,6693,Udaipur,272146,Kanchigang Reserve Forest,799120
+16,Tripura,654,Gomati,6693,Udaipur,272218,Khilpara,799114
+16,Tripura,654,Gomati,6693,Udaipur,272203,Khupilong,799113
+16,Tripura,654,Gomati,6693,Udaipur,272155,Raiyabari,799114
+16,Tripura,654,Gomati,6693,Udaipur,272211,Rajnagar,799114
+16,Tripura,654,Gomati,6693,Udaipur,272249,Upendranagar,799105
+16,Tripura,652,Khowai,6684,Khowai,271937,Badlabari,799207
+16,Tripura,652,Khowai,6684,Khowai,271897,Dakshin Ramchandraghat,799201
+16,Tripura,652,Khowai,6684,Khowai,271905,Paschim Singichhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271922,Purba Karangichhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271925,Purba Lakshmichhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271906,Purba Singichhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271931,Shikaribari,799201
+16,Tripura,652,Khowai,6684,Khowai,271898,Tuihachingbari,799207
+16,Tripura,652,Khowai,6684,Khowai,271967,Uttar Pramodnagar,799201
+16,Tripura,652,Khowai,6698,Teliamura,271958,Dakshin Pulinpur,799203
+16,Tripura,652,Khowai,6698,Teliamura,271944,Maharanipur,799205
+16,Tripura,652,Khowai,6698,Teliamura,271955,Moharchhera,799203
+16,Tripura,652,Khowai,6698,Teliamura,271980,Nonachhera Reserve Forest,799205
+16,Tripura,652,Khowai,6698,Teliamura,271948,Paschim Kalyanpur,799203
+16,Tripura,652,Khowai,6698,Teliamura,271950,Purba Kalyanpur,799203
+16,Tripura,652,Khowai,6698,Teliamura,271974,Ramkrishnapur,799205
+16,Tripura,652,Khowai,6698,Teliamura,271971,Sriramkhara,799203
+16,Tripura,652,Khowai,6698,Teliamura,271966,Teliamura,799205
+16,Tripura,652,Khowai,6698,Teliamura,271962,Teliamura Reserve Forest,799205
+16,Tripura,270,North Tripura,6691,Dharmanagar,272633,Balidhum,799254
+16,Tripura,270,North Tripura,6691,Dharmanagar,272622,Churaibari,799262
+16,Tripura,270,North Tripura,6691,Dharmanagar,272643,Purba Halflong,799254
+16,Tripura,270,North Tripura,6691,Dharmanagar,272625,Ragna,799251
+16,Tripura,270,North Tripura,6691,Dharmanagar,272629,Sanichhera,799262
+16,Tripura,270,North Tripura,6685,Kanchanpur,272738,Banglabari,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272737,Belianchief,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272714,Kanchanchhera,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272741,Sailu,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272712,Shantipur,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272726,Tuichhama,799271
+16,Tripura,270,North Tripura,6678,Panisagar,272658,Bangsul,799254
+16,Tripura,270,North Tripura,6678,Panisagar,272662,Damchhera,799256
+16,Tripura,270,North Tripura,6678,Panisagar,272647,Deochhera,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272652,Jalebassa,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272657,Juri Reserve Forest,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272664,Kacharichhera,799256
+16,Tripura,270,North Tripura,6678,Panisagar,272648,Ramnagar,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272649,Rowa,799260
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272075,Amtali,799130
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272073,Bashtali,799103
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272060,Golaghati,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272052,Kaiyadhepa,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272047,Kamalasagar,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272050,Konaban,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272053,Nehal Chandra Nagar,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272074,Padmanagar,799103
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272054,Purathal Rajnagar,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272068,Sutarmura,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272062,Uttar Charilam,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272032,Bamnichhera,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272079,Madhya Pathalia,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272034,Paschim Takarjala,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272042,Ujan Ghaniamara,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272046,Ujan Pathalia,799103
+16,Tripura,653,Sepahijala,6680,Sonamura,272119,Barpathar,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272144,Bejimara,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272137,Birendranagar,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272136,Jagatrampur,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272091,Kalamchaura,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272128,Kalapania,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272140,Kalikrishnanagar,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272122,Khedarbari,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272138,Manaipathar,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272088,Manikyanagar,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272096,Matinagar,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272103,Purba Nalchar,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272082,Rahimpur,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272118,Telkajala,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272123,Uttar Taibandal,799105
+16,Tripura,271,South Tripura,6687,Belonia,272264,Baraiya,799157
+16,Tripura,271,South Tripura,6687,Belonia,272274,Barapathari,799155
+16,Tripura,271,South Tripura,6687,Belonia,922863,Belonia,799155
+16,Tripura,271,South Tripura,6687,Belonia,272296,Champaknagar,799155
+16,Tripura,271,South Tripura,6687,Belonia,272317,Chhaigharia,799155
+16,Tripura,271,South Tripura,6687,Belonia,272293,Dakshin Sonaichhari,799155
+16,Tripura,271,South Tripura,6687,Belonia,272265,Dakshin Srirampur,799157
+16,Tripura,271,South Tripura,6687,Belonia,272299,Haripur,799156
+16,Tripura,271,South Tripura,6687,Belonia,272285,Kalabaria,799155
+16,Tripura,271,South Tripura,6687,Belonia,272295,Matai,799155
+16,Tripura,271,South Tripura,6687,Belonia,272259,Radhanagar,799153
+16,Tripura,271,South Tripura,6687,Belonia,272287,Uttar Sonaichhari,799155
+16,Tripura,271,South Tripura,6688,Sabroom,272414,Brajendranagar,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272378,Chhatakchhari,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272374,Kanthalchhari,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272419,Paschim Sabrum,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272418,Purba Jalefa,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272377,Sonaichhari,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272393,Taikumbachhera,799143
+16,Tripura,271,South Tripura,6683,Santirbazar,272338,Abhangachhera,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272316,Gardang,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272320,Kalalaugang,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272327,Kalasi,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272313,Paschim Kathalia,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272319,Radhakishoreganj,799144
+16,Tripura,655,Unakoti,6682,Kailashahar,272594,Chandipur,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272592,Chhantail,799279
+16,Tripura,655,Unakoti,6682,Kailashahar,272587,Debasthal,799279
+16,Tripura,655,Unakoti,6682,Kailashahar,272579,Dhaliarkandi,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,272599,Halaichhera,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272578,Hirachhera,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,272604,Jarultali,799279
+16,Tripura,655,Unakoti,6682,Kailashahar,272583,Jubarajnagar,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,272574,Latiapur,799281
+16,Tripura,655,Unakoti,6694,Kumarghat,272702,Dudhpur,799288
+16,Tripura,655,Unakoti,6694,Kumarghat,272692,Kumarghat,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272677,Nalkata,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272669,Purba Andharchhera,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272695,Purba Ratachhera,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272686,Radhanagar,799290
+16,Tripura,655,Unakoti,6694,Kumarghat,272601,Samru Hala Reserve Forest,799277
+16,Tripura,272,West Tripura,6679,Jirania,272010,Belbari,799045
+16,Tripura,272,West Tripura,6679,Jirania,272014,Briddhanagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,272011,Champaknagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,271992,Dinakobrapara,799035
+16,Tripura,272,West Tripura,6679,Jirania,271991,Harbhang,799035
+16,Tripura,272,West Tripura,6679,Jirania,272009,Janmejoynagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,272002,Majlishpur,799035
+16,Tripura,272,West Tripura,6679,Jirania,272003,Purba Barjulai,799045
+16,Tripura,272,West Tripura,6679,Jirania,272001,Purba Noagaon,799035
+16,Tripura,272,West Tripura,6679,Jirania,271982,Shibnagar,799045
+16,Tripura,272,West Tripura,6689,Mohanpur,271878,Kamukchhera,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271846,Mantala,799212
+16,Tripura,272,West Tripura,6689,Mohanpur,271850,Noagaon,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271843,Paschim Simna,799212
+16,Tripura,272,West Tripura,6696,Sadar,922839,Agartala Sheet No-1,799001
+16,Tripura,272,West Tripura,6696,Sadar,922848,Agartala Sheet No-17,799001
+16,Tripura,272,West Tripura,6696,Sadar,922842,Agartala Sheet No-7,799001
+16,Tripura,272,West Tripura,6696,Sadar,272017,Badharghat,799003
+16,Tripura,272,West Tripura,6696,Sadar,922830,Barjala,799002
+16,Tripura,272,West Tripura,6696,Sadar,272020,Bikramnagar,799130
+16,Tripura,272,West Tripura,6696,Sadar,272023,Charipara,799003
+16,Tripura,272,West Tripura,6696,Sadar,922856,Howrah,799001
+16,Tripura,272,West Tripura,6696,Sadar,922858,Madhupur,799001
+16,Tripura,269,Dhalai,6697,Ambassa,272499,Auliraipara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272511,Chakmapara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272521,Dangamapara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272515,Ganganagar,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272496,Kanchanpur,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272494,Kulai,799204
+16,Tripura,269,Dhalai,6697,Ambassa,272522,Satbhaiyapara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272523,Siddhapara,799289
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272540,Bhagirathpara,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272539,Jinaraipara,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272564,Khedarkut,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272551,Sarma,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272541,Sipasing,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272570,Sukraichhera,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272559,Tuichhama,799284
+16,Tripura,269,Dhalai,6681,Kamalpur,272426,Barasurma,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272421,Dakshin Bilaschhera,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272443,Duraichhera,799287
+16,Tripura,269,Dhalai,6681,Kamalpur,272429,Harerkhola,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272435,Kuchainala,799287
+16,Tripura,269,Dhalai,6681,Kamalpur,272441,Manikbhandar,799287
+16,Tripura,269,Dhalai,6681,Kamalpur,272422,Noagao,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272442,Srirampur,799287
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272486,Lalchhera,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272487,Manu Chhailengta Reserve Forest,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272480,Maynama,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272469,Nalkata,799266
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272530,Paschim Chhamanu,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272525,Sonapur,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272476,Uttar Dhumachhera,799275
+16,Tripura,654,Gomati,6695,Amarpur,272172,Dalak,799101
+16,Tripura,654,Gomati,6695,Amarpur,272189,Dhanlekha,799101
+16,Tripura,654,Gomati,6695,Amarpur,272192,Haripur,799101
+16,Tripura,654,Gomati,6695,Amarpur,272169,Paschim Malbasa,799101
+16,Tripura,654,Gomati,6695,Amarpur,272186,Paschim Taichhlong,799101
+16,Tripura,654,Gomati,6695,Amarpur,272185,Purba Taichhlong,799101
+16,Tripura,654,Gomati,6695,Amarpur,272188,Taidudhepha,799101
+16,Tripura,654,Gomati,6695,Amarpur,272180,Uttar Chelagang,799101
+16,Tripura,654,Gomati,6690,Karbook,272345,Paschim Ekchhari,799104
+16,Tripura,654,Gomati,6690,Karbook,272353,Paschim Manikyadewan,799104
+16,Tripura,654,Gomati,6690,Karbook,272347,Rambhadra,799104
+16,Tripura,654,Gomati,6690,Karbook,272346,Uttar Ekchhari,799104
+16,Tripura,654,Gomati,6693,Udaipur,272151,Chhaimaroa,799114
+16,Tripura,654,Gomati,6693,Udaipur,272153,Chharthai,799120
+16,Tripura,654,Gomati,6693,Udaipur,272160,Dakshin Baramura Debtamura Reserve Forest,799125
+16,Tripura,654,Gomati,6693,Udaipur,272224,Garjichhera,799125
+16,Tripura,654,Gomati,6693,Udaipur,272247,Hurijala,799105
+16,Tripura,654,Gomati,6693,Udaipur,272242,Jamjuri,799013
+16,Tripura,654,Gomati,6693,Udaipur,272154,Killa,799114
+16,Tripura,654,Gomati,6693,Udaipur,272243,Rajdharnagar,799114
+16,Tripura,654,Gomati,6693,Udaipur,272250,Rani,799105
+16,Tripura,654,Gomati,6693,Udaipur,922819,Udaipur,799114
+16,Tripura,654,Gomati,6693,Udaipur,272219,Uttar Chandrapur,799013
+16,Tripura,652,Khowai,6684,Khowai,271899,Akharabari,799201
+16,Tripura,652,Khowai,6684,Khowai,271894,Dakshin Padmabil,799201
+16,Tripura,652,Khowai,6684,Khowai,271940,Dakshin Pramodnagar,799203
+16,Tripura,652,Khowai,6684,Khowai,271911,Dhalabil,799201
+16,Tripura,652,Khowai,6684,Khowai,922868,Khowai,799201
+16,Tripura,652,Khowai,6684,Khowai,271916,Lakshminarayanpur,799207
+16,Tripura,652,Khowai,6684,Khowai,271935,Paschim Rajnagar,799201
+16,Tripura,652,Khowai,6684,Khowai,271889,Ratanpur,799201
+16,Tripura,652,Khowai,6684,Khowai,271917,Shantinagar,799201
+16,Tripura,652,Khowai,6684,Khowai,271912,Uttar Ramchandraghat,799207
+16,Tripura,652,Khowai,6698,Teliamura,271942,Durgapur,799203
+16,Tripura,270,North Tripura,6691,Dharmanagar,272626,Baruakandi,799251
+16,Tripura,270,North Tripura,6691,Dharmanagar,272623,Icchailalchhera,799251
+16,Tripura,270,North Tripura,6691,Dharmanagar,272621,Kadamtala,799261
+16,Tripura,270,North Tripura,6691,Dharmanagar,272618,Sarala,799261
+16,Tripura,270,North Tripura,6691,Dharmanagar,272620,Saraspur,799261
+16,Tripura,270,North Tripura,6685,Kanchanpur,272743,Central Catchment Reserve Forest,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272715,Chandipur,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272720,Dashmanipara,799271
+16,Tripura,270,North Tripura,6685,Kanchanpur,272724,Lambachhera,799271
+16,Tripura,270,North Tripura,6685,Kanchanpur,272729,Paschim Tlangsangbari,799269
+16,Tripura,270,North Tripura,6678,Panisagar,272665,Damchhera Reserve Forest,799256
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272056,Bishalgarh,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272072,Dakshin Charilam,799103
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272059,Gopinagar,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272067,Rangapania,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272071,Rangmala,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272040,Jampuijala,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272061,Latiachhera,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272029,Mohanpur,799011
+16,Tripura,653,Sepahijala,6680,Sonamura,272092,Anandapur,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272085,Ashabari,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272084,Bheluarchar,799102
+16,Tripura,653,Sepahijala,6680,Sonamura,272126,Chandigarh,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272117,Chandul,799105
+16,Tripura,653,Sepahijala,6680,Sonamura,272142,Durlabhpur,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272090,Jagatrampur,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272121,Jharjharia,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272093,Kamalnagar,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272108,Khedabari,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272129,Manarchak,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272110,Nabadwipchandranagar,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272141,Nidaya,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,922872,Sonamura,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272120,Urmai,799115
+16,Tripura,271,South Tripura,6687,Belonia,272294,Baspadua,799155
+16,Tripura,271,South Tripura,6687,Belonia,272282,Ishanchandranagar,799155
+16,Tripura,271,South Tripura,6687,Belonia,272273,Jaichandrapur,799153
+16,Tripura,271,South Tripura,6687,Belonia,272267,Kamalpur,799157
+16,Tripura,271,South Tripura,6687,Belonia,272300,Krishnanagar,799156
+16,Tripura,271,South Tripura,6687,Belonia,272290,Manirampur,799142
+16,Tripura,271,South Tripura,6687,Belonia,272261,Siddhinagar,799157
+16,Tripura,271,South Tripura,6687,Belonia,272257,Uttar Krishnapur,799153
+16,Tripura,271,South Tripura,6687,Belonia,272266,Uttar Srirampur,799157
+16,Tripura,271,South Tripura,6688,Sabroom,272382,Aliamara,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272406,Betaga Reserve Forest,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272413,Harbatali,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272389,Magrum,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272417,Paschim Jalefa,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272380,Purba Ludhua,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272385,Purba Sabrum,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272386,Rajdharpur,799145
+16,Tripura,271,South Tripura,6688,Sabroom,922870,Sabroom,799145
+16,Tripura,271,South Tripura,6683,Santirbazar,272330,Birendranagar,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272329,Dakshin Barpatiroy,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272305,Dakshin Takmachhera,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272322,Lakshmichhera,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272326,Muhuripur Reserve Forest,799142
+16,Tripura,271,South Tripura,6683,Santirbazar,272325,Purba Charakbai,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272340,Tairumachhera,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272306,Uttar Debipur,799144
+16,Tripura,655,Unakoti,6682,Kailashahar,272606,Bilashpur,799280
+16,Tripura,655,Unakoti,6682,Kailashahar,272602,Dhanbilas,799280
+16,Tripura,655,Unakoti,6682,Kailashahar,272611,Dhatuchhera,799264
+16,Tripura,655,Unakoti,6682,Kailashahar,272577,Irani,799281
+16,Tripura,655,Unakoti,6682,Kailashahar,922866,Kailashahar,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272580,Tilagaon,799281
+16,Tripura,655,Unakoti,6694,Kumarghat,272703,Betchhera,799266
+16,Tripura,655,Unakoti,6694,Kumarghat,272683,Dakshin Machhmara,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272682,Dewanbari,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272707,Fatikroy,799290
+16,Tripura,655,Unakoti,6694,Kumarghat,272694,Ganganagar,799290
+16,Tripura,655,Unakoti,6694,Kumarghat,272699,Laljuri,799288
+16,Tripura,655,Unakoti,6694,Kumarghat,272671,Nabinchhera,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272668,Paschim Andharchhera,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272704,Purba Kanchanbari,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272681,Uttar Machhmara,799263
+16,Tripura,272,West Tripura,6679,Jirania,271997,Atuthangbari,799045
+16,Tripura,272,West Tripura,6679,Jirania,271995,Bhrigudaspara,799045
+16,Tripura,272,West Tripura,6679,Jirania,272004,Joynagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,271987,Kathirambari,799045
+16,Tripura,272,West Tripura,6679,Jirania,271993,Mandainagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,271986,Paschim Barjulai,799045
+16,Tripura,272,West Tripura,6679,Jirania,272005,Purba Debandranagar,799045
+16,Tripura,272,West Tripura,6679,Jirania,272008,Radhapur,799045
+16,Tripura,272,West Tripura,6679,Jirania,272015,Uttar Champamura,799008
+16,Tripura,272,West Tripura,6689,Mohanpur,271883,Barkanthalia,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271864,Narsingarh,799015
+16,Tripura,272,West Tripura,6689,Mohanpur,271869,Purba Simna,799212
+16,Tripura,272,West Tripura,6689,Mohanpur,271863,Taranagar,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271861,Tulabagan,799211
+16,Tripura,272,West Tripura,6696,Sadar,922844,Agartala Sheet No-13,799001
+16,Tripura,272,West Tripura,6696,Sadar,922847,Agartala Sheet No-16,799001
+16,Tripura,272,West Tripura,6696,Sadar,922850,Agartala Sheet No-20,799001
+16,Tripura,272,West Tripura,6696,Sadar,922878,Agartala Sheet No-23,799001
+16,Tripura,272,West Tripura,6696,Sadar,922879,Agartala Sheet No-24,799001
+16,Tripura,272,West Tripura,6696,Sadar,922855,Agartala Sheet No-6,799001
+16,Tripura,272,West Tripura,6696,Sadar,922843,Agartala Sheet No-8,799001
+16,Tripura,272,West Tripura,6696,Sadar,922833,Indranagar,799006
+16,Tripura,272,West Tripura,6696,Sadar,922835,Khayerpur,799008
+16,Tripura,272,West Tripura,6696,Sadar,272027,Madhuban,799003
+16,Tripura,272,West Tripura,6696,Sadar,271856,Ramnagar,799002
+16,Tripura,269,Dhalai,6697,Ambassa,272491,Balaram,799204
+16,Tripura,269,Dhalai,6697,Ambassa,272513,Khamupara,799289
+16,Tripura,269,Dhalai,6697,Ambassa,272504,Kulai Reserve Forest,799204
+16,Tripura,269,Dhalai,6697,Ambassa,272501,Sikaribari,799289
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272569,Boalkhali,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272550,Bulangbasa,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272543,Dalapatipara,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272549,Dhalajhari,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272565,Kamalakhal,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272542,Malyansing,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272567,Paschim Raima,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272544,Purba Gandachhera,799284
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272568,Purba Raima,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272557,Sardeng,799104
+16,Tripura,269,Dhalai,6686,Gonda Twisa,272560,Thakurchhera,799284
+16,Tripura,269,Dhalai,6681,Kamalpur,272462,Dabbari,799278
+16,Tripura,269,Dhalai,6681,Kamalpur,272434,Darangtilla,799287
+16,Tripura,269,Dhalai,6681,Kamalpur,272444,Halhali,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272452,Katalutma,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272438,Longtarai Reserve Forest,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272425,Marachhera,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272458,Mendi,799278
+16,Tripura,269,Dhalai,6681,Kamalpur,272424,Mohanpur,799285
+16,Tripura,269,Dhalai,6681,Kamalpur,272449,Nakful,799286
+16,Tripura,269,Dhalai,6681,Kamalpur,272461,Salema,799278
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272529,Dakshin Longtarai,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272472,Deo Reserve Forest,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272526,Durgachhera,799273
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272482,Longtarai Reserve Forest,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272475,Paschim Machli,799275
+16,Tripura,269,Dhalai,6692,Longtharai Valley,272527,Sadhujanpara,799273
+16,Tripura,654,Gomati,6695,Amarpur,272164,Bampur,799101
+16,Tripura,654,Gomati,6695,Amarpur,272200,Dakshin Chhangang,799101
+16,Tripura,654,Gomati,6695,Amarpur,272187,Dakshin Taidu,799101
+16,Tripura,654,Gomati,6695,Amarpur,272165,Debbari,799101
+16,Tripura,654,Gomati,6695,Amarpur,272198,Ekjanchhera,799101
+16,Tripura,654,Gomati,6695,Amarpur,272177,Kurmachhera,799101
+16,Tripura,654,Gomati,6695,Amarpur,272181,Natun Bazar,799101
+16,Tripura,654,Gomati,6695,Amarpur,272171,Paharpur,799101
+16,Tripura,654,Gomati,6695,Amarpur,272163,Paschim Sarbang,799101
+16,Tripura,654,Gomati,6695,Amarpur,272179,Purba Duluma,799101
+16,Tripura,654,Gomati,6690,Karbook,272350,Chakpur,799104
+16,Tripura,654,Gomati,6690,Karbook,272354,Dakshin Ekchhari,799104
+16,Tripura,654,Gomati,6690,Karbook,272369,Desharampara,799104
+16,Tripura,654,Gomati,6690,Karbook,272358,Ichhachhari,799104
+16,Tripura,654,Gomati,6690,Karbook,272388,Kaptali,799104
+16,Tripura,654,Gomati,6690,Karbook,272343,Laogang,799104
+16,Tripura,654,Gomati,6690,Karbook,272349,Mukchhari,799104
+16,Tripura,654,Gomati,6690,Karbook,272355,Paschim Karbook,799104
+16,Tripura,654,Gomati,6690,Karbook,272359,Patichhari,799104
+16,Tripura,654,Gomati,6693,Udaipur,272231,Baisabari,799120
+16,Tripura,654,Gomati,6693,Udaipur,272210,Chhataria,799114
+16,Tripura,654,Gomati,6693,Udaipur,272245,Dudhpushkarini,799105
+16,Tripura,654,Gomati,6693,Udaipur,272234,Gakulpur,799114
+16,Tripura,654,Gomati,6693,Udaipur,272240,Hadra,799105
+16,Tripura,654,Gomati,6693,Udaipur,272207,Radhakishorepur Reserve Forest,799013
+16,Tripura,654,Gomati,6693,Udaipur,272252,Samukchhera,799105
+16,Tripura,654,Gomati,6693,Udaipur,272230,Taiharchum,799120
+16,Tripura,654,Gomati,6693,Udaipur,272152,Uttar Brajendranagar,799114
+16,Tripura,652,Khowai,6684,Khowai,271919,Banbazar,799201
+16,Tripura,652,Khowai,6684,Khowai,271915,Chebri,799207
+16,Tripura,652,Khowai,6684,Khowai,271909,Gournagar,799201
+16,Tripura,652,Khowai,6684,Khowai,271890,Paschim Belchhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271891,Purba Belchhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271930,Purba Champachhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271903,Ramdayalbari,799203
+16,Tripura,652,Khowai,6684,Khowai,271933,Ramkrishnabari,799207
+16,Tripura,652,Khowai,6684,Khowai,271924,Remachhera,799201
+16,Tripura,652,Khowai,6684,Khowai,271913,Sonatala,799207
+16,Tripura,652,Khowai,6684,Khowai,271923,Sukhiabari,799201
+16,Tripura,652,Khowai,6684,Khowai,271969,Tuichingrambari,799207
+16,Tripura,652,Khowai,6684,Khowai,271892,Uttar Padmabil,799201
+16,Tripura,652,Khowai,6698,Teliamura,271965,Dakshin Gakulnagar,799203
+16,Tripura,652,Khowai,6698,Teliamura,271941,Dwarikapur,799203
+16,Tripura,652,Khowai,6698,Teliamura,271970,Karaibari,799205
+16,Tripura,652,Khowai,6698,Teliamura,271949,Madhya Kalyanpur,799203
+16,Tripura,652,Khowai,6698,Teliamura,271961,Sardu Karkari,799205
+16,Tripura,652,Khowai,6698,Teliamura,271956,Uttar Pulinpur,799203
+16,Tripura,270,North Tripura,6691,Dharmanagar,272639,Bagbasa,799253
+16,Tripura,270,North Tripura,6691,Dharmanagar,272627,Bhagyapur,799251
+16,Tripura,270,North Tripura,6691,Dharmanagar,272624,Bishnupur,799261
+16,Tripura,270,North Tripura,6691,Dharmanagar,272632,Chandpur,799262
+16,Tripura,270,North Tripura,6691,Dharmanagar,922864,Dharmanagar,799250
+16,Tripura,270,North Tripura,6691,Dharmanagar,272636,Dhupirband,799253
+16,Tripura,270,North Tripura,6691,Dharmanagar,272617,Kurti,799261
+16,Tripura,270,North Tripura,6691,Dharmanagar,272619,Maheshpur,799261
+16,Tripura,270,North Tripura,6691,Dharmanagar,272630,Pratyekrai,799251
+16,Tripura,270,North Tripura,6691,Dharmanagar,272646,Purba Tilthai,799260
+16,Tripura,270,North Tripura,6691,Dharmanagar,272614,Ranibari,799261
+16,Tripura,270,North Tripura,6685,Kanchanpur,272718,Dasda Lakshmipur,799271
+16,Tripura,270,North Tripura,6685,Kanchanpur,272711,Jamaraipara,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272731,Kanchanpur,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272716,Manu Chailengta Reserve Forest,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272742,Sabual,799269
+16,Tripura,270,North Tripura,6685,Kanchanpur,272717,Satnala,799270
+16,Tripura,270,North Tripura,6685,Kanchanpur,272734,Tlaksi,799269
+16,Tripura,270,North Tripura,6678,Panisagar,272654,Indurail,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272656,Panisagar,799260
+16,Tripura,270,North Tripura,6678,Panisagar,272640,Uttar Padmabill,799260
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272081,Gakulnagar,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272058,Lakshmibil,799102
+16,Tripura,653,Sepahijala,6699,Bishalgarh,272070,Ramnagar,799103
+16,Tripura,653,Sepahijala,6677,Jampuijala,272039,Kalaibari,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272038,Killabari,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272043,Madhya Ghaniamara,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272030,Pekuarjala,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,272031,Ratnapur,799011
+16,Tripura,653,Sepahijala,6677,Jampuijala,923605,Thelakum,799011
+16,Tripura,653,Sepahijala,6680,Sonamura,272107,Bardowal,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272143,Bhabanipur,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272132,Birampur,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272095,Dhanirampur,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272106,Durlabh Narayan,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272125,Gamaichhera,799105
+16,Tripura,653,Sepahijala,6680,Sonamura,272089,Ghilatali,799105
+16,Tripura,653,Sepahijala,6680,Sonamura,272135,Kanthalia,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272097,Kulubari,799131
+16,Tripura,653,Sepahijala,6680,Sonamura,272113,Melaghar,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272115,Mohanbhog,799105
+16,Tripura,653,Sepahijala,6680,Sonamura,272133,Nirbhaypur,799132
+16,Tripura,653,Sepahijala,6680,Sonamura,272100,Paschim Jumerdhepa,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272127,Sobhapur,799115
+16,Tripura,653,Sepahijala,6680,Sonamura,272098,Taksapara,799103
+16,Tripura,271,South Tripura,6687,Belonia,272301,Abhoynagar,799156
+16,Tripura,271,South Tripura,6687,Belonia,272269,Bardosh,799150
+16,Tripura,271,South Tripura,6687,Belonia,272279,Chittamara,799155
+16,Tripura,271,South Tripura,6687,Belonia,272298,Hrishyamukh,799156
+16,Tripura,271,South Tripura,6687,Belonia,272284,Madhya Bharatchandranagar,799155
+16,Tripura,271,South Tripura,6687,Belonia,272260,Paschim Anandapur,799157
+16,Tripura,271,South Tripura,6687,Belonia,272276,Purba Peporiakhola,799155
+16,Tripura,271,South Tripura,6687,Belonia,272286,Sharasima,799155
+16,Tripura,271,South Tripura,6687,Belonia,272271,Trishna Reserve Forest,799150
+16,Tripura,271,South Tripura,6687,Belonia,272292,Tuigamari,799142
+16,Tripura,271,South Tripura,6687,Belonia,272280,Uttar Bharatchandranagar,799155
+16,Tripura,271,South Tripura,6688,Sabroom,272412,Amlighat,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272398,Bhuratali,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272361,Chalita Bangkul,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272404,Chalitachhera,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272373,Dakshin Manubangkul,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272390,Gaganchandrapara,799141
+16,Tripura,271,South Tripura,6688,Sabroom,272391,Gardang,799141
+16,Tripura,271,South Tripura,6688,Sabroom,272408,Madhabnagar,799156
+16,Tripura,271,South Tripura,6688,Sabroom,272409,Rajnagar,799156
+16,Tripura,271,South Tripura,6688,Sabroom,272371,Uttar Bijoypur,799145
+16,Tripura,271,South Tripura,6688,Sabroom,272395,Uttar Kalapania,799143
+16,Tripura,271,South Tripura,6688,Sabroom,272362,Uttar Taichhama,799143
+16,Tripura,271,South Tripura,6683,Santirbazar,272314,Bagafa,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272341,Baramura Debtamura Reserve Forest,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272336,Dakshin Hichhachhera,799141
+16,Tripura,271,South Tripura,6683,Santirbazar,272307,Purba Kathalia,799144
+16,Tripura,271,South Tripura,6683,Santirbazar,272311,Rajapur,799125
+16,Tripura,271,South Tripura,6683,Santirbazar,272304,Uttar Takmachhera,799125
+16,Tripura,655,Unakoti,6682,Kailashahar,272608,Bhagabannagar,799282
+16,Tripura,655,Unakoti,6682,Kailashahar,272600,Golakpur,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272589,Goldharpur,799279
+16,Tripura,655,Unakoti,6682,Kailashahar,272582,Kanakpur,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272597,Manuvalley,799277
+16,Tripura,655,Unakoti,6682,Kailashahar,272603,Phultali,799280
+16,Tripura,655,Unakoti,6694,Kumarghat,272676,Baghaichhera,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272698,Dengdung,799288
+16,Tripura,655,Unakoti,6694,Kumarghat,272679,Deo Reserve Forest,799263
+16,Tripura,655,Unakoti,6694,Kumarghat,272701,Masauli,799288
+16,Tripura,655,Unakoti,6694,Kumarghat,272689,Natingchhera,799264
+16,Tripura,655,Unakoti,6694,Kumarghat,272691,Sunaimuri,799264
+16,Tripura,272,West Tripura,6679,Jirania,271989,Ashighar,799045
+16,Tripura,272,West Tripura,6679,Jirania,271985,Dinabandhunagar,799035
+16,Tripura,272,West Tripura,6679,Jirania,271996,Jamilongpara,799045
+16,Tripura,272,West Tripura,6679,Jirania,272006,Jirania,799045
+16,Tripura,272,West Tripura,6679,Jirania,271999,Mekhlipara,799035
+16,Tripura,272,West Tripura,6679,Jirania,271988,Patnipara,799045
+16,Tripura,272,West Tripura,6679,Jirania,272007,Radhamohanpur,799045
+16,Tripura,272,West Tripura,6679,Jirania,271983,Ramchandranagar,799008
+16,Tripura,272,West Tripura,6689,Mohanpur,271852,Bamutia,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271884,Chandpur,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271876,Dakshin Dasgharia,799212
+16,Tripura,272,West Tripura,6689,Mohanpur,271845,Ishanpur,799212
+16,Tripura,272,West Tripura,6689,Mohanpur,271847,Kalachhera,799211
+16,Tripura,272,West Tripura,6689,Mohanpur,271854,Laxmilunga,799015
+16,Tripura,272,West Tripura,6689,Mohanpur,271844,Meghliband,799212
+16,Tripura,272,West Tripura,6689,Mohanpur,271862,Uttar Debendra Chandra Nagar,799211
+16,Tripura,272,West Tripura,6696,Sadar,922849,Agartala Sheet No-18,799001
+16,Tripura,272,West Tripura,6696,Sadar,922841,Agartala Sheet No-2,799001
+16,Tripura,272,West Tripura,6696,Sadar,922852,Agartala Sheet No-22,799001
+16,Tripura,272,West Tripura,6696,Sadar,922840,Agartala Sheet No-3,799001
+16,Tripura,272,West Tripura,6696,Sadar,922853,Agartala Sheet No-4,799001
+16,Tripura,272,West Tripura,6696,Sadar,272024,Anandanagar,799004
+16,Tripura,272,West Tripura,6696,Sadar,922859,Jogendranagar,799004
+16,Tripura,272,West Tripura,6696,Sadar,271858,Kunjaban,799006
+16,Tripura,272,West Tripura,6696,Sadar,271855,Lankamura,799009
+16,Tripura,272,West Tripura,6696,Sadar,272019,Pandab Pur,799130

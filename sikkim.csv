@@ -1,0 +1,486 @@
+stateCode,stateNameEnglish,districtCode,districtNameEnglish,subdistrictCode,subdistrictNameEnglish,villageCode,villageNameEnglish,pincode
+11,Sikkim,225,Gangtok,1553,Gangtok,943205,Lingdok,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261311,Naitam,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261287,Namli,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261310,Nandok,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,943203,Penlong,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261257,Raleyhesey,737107
+11,Sikkim,225,Gangtok,1553,Gangtok,261308,Tathangchen,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,943193,Upper Sichey,737101
+11,Sikkim,225,Gangtok,1553,Gangtok,943195,Upper Tadong,737102
+11,Sikkim,225,Gangtok,7177,Rabdang,261279,Martam,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261276,Phengyong,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261260,Simik,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261264,Singbel,737134
+11,Sikkim,228,Gyalshing,6398,Dentam,261040,Berthang,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261042,Chingthang,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261051,Dentam Forest Block,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261036,Hee Patal,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261038,Martam,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261028,Sopakha,737113
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261003,Bhaluthang,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,260999,Chumbong,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261049,Pelling Forest Block,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,260993,Sindrangbong,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261002,Unglok,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261005,Arithang,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260989,Melli-Aching,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261009,Narkhola,737111
+11,Sikkim,226,Mangan,1547,Chungthang,260927,Chungthang,737120
+11,Sikkim,226,Mangan,1547,Chungthang,260933,Chungthang Forest Block,737120
+11,Sikkim,226,Mangan,1547,Chungthang,260925,Lachen,737120
+11,Sikkim,226,Mangan,1547,Chungthang,260929,Toong,737120
+11,Sikkim,226,Mangan,1547,Chungthang,260974,Upper Dzongu Forest Block,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260951,Barfok,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260952,Lingdong,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260945,Pentong,737116
+11,Sikkim,226,Mangan,6401,Kabi,260967,Chawang,737116
+11,Sikkim,226,Mangan,6401,Kabi,261320,Pangthang Forest Block,737107
+11,Sikkim,226,Mangan,6401,Kabi,260970,Pani Phensong,737116
+11,Sikkim,226,Mangan,6401,Kabi,260966,Phodong,737116
+11,Sikkim,226,Mangan,6401,Kabi,260962,Tanek,737121
+11,Sikkim,226,Mangan,6401,Kabi,260957,Tingchim,737121
+11,Sikkim,226,Mangan,1548,Mangan,260937,Pakshep,737116
+11,Sikkim,226,Mangan,1548,Mangan,260936,Singchit,737107
+11,Sikkim,227,Namchi,6399,Jorethang,261120,Chisopani,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261117,Denchung,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261123,Dorop,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261150,Kerbari,737128
+11,Sikkim,227,Namchi,6399,Jorethang,261152,Mellidara,737128
+11,Sikkim,227,Namchi,6399,Jorethang,261149,Ramabung,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261134,Sumbuk,737126
+11,Sikkim,227,Namchi,1551,Namchi,261109,Damthang,737126
+11,Sikkim,227,Namchi,1551,Namchi,261180,Gangchung,737126
+11,Sikkim,227,Namchi,1551,Namchi,261132,Kitam,737126
+11,Sikkim,227,Namchi,1551,Namchi,261201,Namthang Forest Block,737126
+11,Sikkim,227,Namchi,1551,Namchi,261126,Shyampani,737126
+11,Sikkim,227,Namchi,1551,Namchi,261141,Singthang,737126
+11,Sikkim,227,Namchi,1551,Namchi,261125,Sorok,737126
+11,Sikkim,227,Namchi,1551,Namchi,261184,Tarku,737126
+11,Sikkim,227,Namchi,7542,Namthang,261160,Bikmat,737126
+11,Sikkim,227,Namchi,7542,Namthang,261194,Donok,737126
+11,Sikkim,227,Namchi,7542,Namthang,261169,Karek,737126
+11,Sikkim,227,Namchi,7542,Namthang,261172,Perbing,737126
+11,Sikkim,227,Namchi,7542,Namthang,261161,Rateypani,737126
+11,Sikkim,227,Namchi,7542,Namthang,261177,Thangsing,737126
+11,Sikkim,227,Namchi,7542,Namthang,261190,Tshalamthang,737126
+11,Sikkim,227,Namchi,7542,Namthang,261191,Turung,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261212,Jarrong,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261252,Kewzing Forest Block,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261050,Legship Forest Block,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261208,Lingding,737126
+11,Sikkim,227,Namchi,1552,Ravangla,931588,Rabong Bazar,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261224,Tinkitam,737126
+11,Sikkim,227,Namchi,6400,Yangang,261233,Lingmo,737126
+11,Sikkim,227,Namchi,6400,Yangang,261237,Mangzing,737126
+11,Sikkim,227,Namchi,6400,Yangang,261240,Namphok,737126
+11,Sikkim,227,Namchi,6400,Yangang,261244,Satam,737126
+11,Sikkim,227,Namchi,6400,Yangang,261239,Sripatam,737126
+11,Sikkim,741,Pakyong,1554,Pakyong,261330,Aho,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261316,Assam,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261331,Changey-Santi,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261317,Lingzey,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261333,Namcheybong,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261342,Pacheykhani,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261345,Tarethang,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261343,Taza,737106
+11,Sikkim,741,Pakyong,6396,Rangpo,943210,Singtam,737134
+11,Sikkim,741,Pakyong,1555,Rongli,261358,Lamaten,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261363,Subaneydara,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261371,Tarpin,737133
+11,Sikkim,742,Soreng,7178,Mangalbarey,261062,Deythang,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261068,Kamling,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261070,Segeng,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261053,Tadong,737121
+11,Sikkim,742,Soreng,1550,Soreng,261082,Bhareng,737121
+11,Sikkim,742,Soreng,1550,Soreng,261098,Chumbong,737121
+11,Sikkim,742,Soreng,1550,Soreng,261089,Lower Fambong,737121
+11,Sikkim,742,Soreng,1550,Soreng,261096,Mendo-Gaon,737121
+11,Sikkim,742,Soreng,1550,Soreng,261104,Nayabazar Forest Block,737121
+11,Sikkim,742,Soreng,1550,Soreng,261077,Singling,737121
+11,Sikkim,742,Soreng,1550,Soreng,261094,Soreng,737121
+11,Sikkim,742,Soreng,1550,Soreng,261093,Tharpu,737121
+11,Sikkim,225,Gangtok,1553,Gangtok,261314,Bhusuk,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,943198,Burtuk,737101
+11,Sikkim,225,Gangtok,1553,Gangtok,261286,Chuba,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,943191,Gangtok,737101
+11,Sikkim,225,Gangtok,1553,Gangtok,261315,Gnathang,737102
+11,Sikkim,225,Gangtok,1553,Gangtok,261301,Lingdok,737121
+11,Sikkim,225,Gangtok,1553,Gangtok,261305,Luing,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261300,Namphong,737107
+11,Sikkim,225,Gangtok,1553,Gangtok,261319,Nathang Forest Block,737102
+11,Sikkim,225,Gangtok,1553,Gangtok,261253,Rakdong,737107
+11,Sikkim,225,Gangtok,1553,Gangtok,261291,Sajong Rumtek,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,943200,Samdur,737102
+11,Sikkim,225,Gangtok,1553,Gangtok,261309,Syari,737102
+11,Sikkim,225,Gangtok,1553,Gangtok,261254,Tintek,737107
+11,Sikkim,225,Gangtok,7177,Rabdang,261262,Lingzey,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261266,Thangsing,737134
+11,Sikkim,228,Gyalshing,6398,Dentam,261041,Barphok,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261030,Begha,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261031,Mangmo,737111
+11,Sikkim,228,Gyalshing,6398,Dentam,261043,Megyong,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261034,Radukhandu,737113
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261019,Lingchom,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,260994,Nambu,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261014,Omchung,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,260997,Singyang,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261017,Yangthang,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261046,Khechepery Forest Block,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260985,Khechodpalri,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261007,Labdang,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261010,Mangnam,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260984,Tsozo,737111
+11,Sikkim,226,Mangan,1547,Chungthang,260926,Lachung,737120
+11,Sikkim,226,Mangan,1547,Chungthang,260931,Thanggu Forest Block,737120
+11,Sikkim,226,Mangan,6402,Dzongu,260941,Lingthem,737116
+11,Sikkim,226,Mangan,6401,Kabi,260961,Swayam,737116
+11,Sikkim,226,Mangan,1548,Mangan,260977,Mangan Forest Block,737116
+11,Sikkim,226,Mangan,1548,Mangan,260976,Naga Forest Block,737116
+11,Sikkim,226,Mangan,1548,Mangan,260939,Sentam,737116
+11,Sikkim,227,Namchi,6399,Jorethang,261122,Dhargaon,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261151,Melli,737128
+11,Sikkim,227,Namchi,6399,Jorethang,261147,Panchgharey,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261118,Poklok,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261148,Turuk,737128
+11,Sikkim,227,Namchi,1551,Namchi,261139,Bul,737126
+11,Sikkim,227,Namchi,1551,Namchi,261110,Jaubari,737126
+11,Sikkim,227,Namchi,1551,Namchi,261129,Kopchey,737126
+11,Sikkim,227,Namchi,1551,Namchi,261112,Mamley,737126
+11,Sikkim,227,Namchi,1551,Namchi,261202,Mamring Forest Block,737126
+11,Sikkim,227,Namchi,1551,Namchi,261131,Manpur,737128
+11,Sikkim,227,Namchi,1551,Namchi,261105,Omchu,737126
+11,Sikkim,227,Namchi,1551,Namchi,261137,Palum,737126
+11,Sikkim,227,Namchi,1551,Namchi,261157,Rabitar,737126
+11,Sikkim,227,Namchi,1551,Namchi,261136,Rong,737126
+11,Sikkim,227,Namchi,1551,Namchi,261138,Singtam,737126
+11,Sikkim,227,Namchi,1551,Namchi,261155,Sukrabarey,737126
+11,Sikkim,227,Namchi,1551,Namchi,261185,Tanak,737126
+11,Sikkim,227,Namchi,1551,Namchi,261111,Tingrithang,737126
+11,Sikkim,227,Namchi,1551,Namchi,261107,Wak,737126
+11,Sikkim,227,Namchi,7542,Namthang,261176,Bermiok,737126
+11,Sikkim,227,Namchi,7542,Namthang,261167,Maneydara,737126
+11,Sikkim,227,Namchi,7542,Namthang,261165,Nalam-Kolpong,737126
+11,Sikkim,227,Namchi,7542,Namthang,261174,Nijarmeng,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261216,Dalep,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261215,Kewzing,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261220,Lamaten,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261217,Lingzo,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261207,Namlung,737126
+11,Sikkim,227,Namchi,1552,Ravangla,953971,New Sada,737139
+11,Sikkim,227,Namchi,1552,Ravangla,261227,Rabong,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261251,Rabong Forest Block,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261225,Rayong,737126
+11,Sikkim,227,Namchi,6400,Yangang,261242,Rangang,737126
+11,Sikkim,741,Pakyong,1554,Pakyong,261328,Chota Singtam,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261337,Dikling,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261332,Pachey,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261329,Yangtam,737106
+11,Sikkim,741,Pakyong,6396,Rangpo,261280,Mangthang,737135
+11,Sikkim,741,Pakyong,6396,Rangpo,943209,Nagar Panchayat,737132
+11,Sikkim,741,Pakyong,6396,Rangpo,261281,Sumin,737134
+11,Sikkim,741,Pakyong,1555,Rongli,261372,Aritar,737133
+11,Sikkim,741,Pakyong,1555,Rongli,261367,Chujachen,737131
+11,Sikkim,741,Pakyong,1555,Rongli,931536,Rongli Bazar,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261365,South Regu,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261369,Sudunglakha,737133
+11,Sikkim,742,Soreng,7178,Mangalbarey,261060,Bara Samdong,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261057,Hathidung,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261059,Reshi,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261054,Rinchenpong,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261103,Sribadam Forest Block,737121
+11,Sikkim,742,Soreng,1550,Soreng,261075,Arubotey,737121
+11,Sikkim,742,Soreng,1550,Soreng,261079,Burikhop,737121
+11,Sikkim,742,Soreng,1550,Soreng,261097,Chakung,737121
+11,Sikkim,742,Soreng,1550,Soreng,261072,Gelling,737121
+11,Sikkim,742,Soreng,1550,Soreng,261078,Karthok,737121
+11,Sikkim,742,Soreng,1550,Soreng,261095,Malbasey,737121
+11,Sikkim,742,Soreng,1550,Soreng,261081,Rumbuk,737121
+11,Sikkim,742,Soreng,1550,Soreng,261087,Salandang,737121
+11,Sikkim,742,Soreng,1550,Soreng,261071,Samsing,737121
+11,Sikkim,742,Soreng,1550,Soreng,261086,Siktam,737121
+11,Sikkim,742,Soreng,1550,Soreng,261102,Soreng Forest Block,737121
+11,Sikkim,225,Gangtok,1553,Gangtok,261293,Chinzey,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261321,Gangtok Forest Block,737101
+11,Sikkim,225,Gangtok,1553,Gangtok,261318,Kyongnosla Forest Block,737102
+11,Sikkim,225,Gangtok,1553,Gangtok,261299,Lingdum,737102
+11,Sikkim,225,Gangtok,1553,Gangtok,261302,Navey,737116
+11,Sikkim,225,Gangtok,1553,Gangtok,943201,Navey,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,943190,Pioneer Reserve,737101
+11,Sikkim,225,Gangtok,1553,Gangtok,261294,Ranka,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261298,Rey-Brock,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,943199,Tadong,737102
+11,Sikkim,225,Gangtok,7177,Rabdang,261261,Aritar,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,945196,Beng Khamdong,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261259,Chadey,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261263,Patuk,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261270,Sakyong,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261326,Singtam Forest Block,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261258,Tumin,737134
+11,Sikkim,228,Gyalshing,6398,Dentam,261039,Bermiok,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261035,Hee,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261025,Liching,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261044,Meyong,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261024,Srinagi,737113
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261048,Gyalshing Forest Block,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261015,Gyalsing,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,260998,Naku,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261020,Sardong,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261018,Tikjya,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261001,Yangtey,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261008,Dhupidara,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260982,Gerethang,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260988,Melli,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261047,Tashiding Forest Block,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260986,Thingling-I,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260991,Timbrong,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260981,Yuksom,737111
+11,Sikkim,226,Mangan,1547,Chungthang,935337,Shipgyer Forest Block,737120
+11,Sikkim,226,Mangan,6402,Dzongu,260947,Sangtok Sagyong,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260943,Tingbong,737116
+11,Sikkim,226,Mangan,6402,Dzongu,945854,Upper Dzongu Forest Block,737116
+11,Sikkim,226,Mangan,6401,Kabi,260979,Kabi Forest Block,737116
+11,Sikkim,226,Mangan,6401,Kabi,260969,Men-Rongong,737116
+11,Sikkim,226,Mangan,6401,Kabi,260978,Phodong Forest Block,737116
+11,Sikkim,226,Mangan,6401,Kabi,260964,Rongong,737116
+11,Sikkim,226,Mangan,6401,Kabi,260973,Tingda,737116
+11,Sikkim,227,Namchi,6399,Jorethang,261145,Lungchuk,737126
+11,Sikkim,227,Namchi,1551,Namchi,261187,Doring,737126
+11,Sikkim,227,Namchi,1551,Namchi,261124,Goom,737126
+11,Sikkim,227,Namchi,1551,Namchi,943215,Gumpa Ghurpisey,737126
+11,Sikkim,227,Namchi,1551,Namchi,261146,Kamaray,737126
+11,Sikkim,227,Namchi,1551,Namchi,261198,Majhitar Forest Block,737126
+11,Sikkim,227,Namchi,1551,Namchi,261144,Maniram,737126
+11,Sikkim,227,Namchi,1551,Namchi,261189,Namphing,737126
+11,Sikkim,227,Namchi,1551,Namchi,261114,Pakjer,737126
+11,Sikkim,227,Namchi,1551,Namchi,261156,Sadam,737126
+11,Sikkim,227,Namchi,1551,Namchi,261142,Salleybong,737126
+11,Sikkim,227,Namchi,1551,Namchi,261183,Temi,737126
+11,Sikkim,227,Namchi,1551,Namchi,261116,Tinzir,737126
+11,Sikkim,227,Namchi,1551,Namchi,261178,Tokal,737126
+11,Sikkim,227,Namchi,7542,Namthang,261164,Paleytam,737126
+11,Sikkim,227,Namchi,7542,Namthang,261159,Tangzi,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261213,Barfung,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261205,Borong,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261211,Deythang,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261219,Hingdam,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261221,Mangbrue,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261206,Polok,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261250,Ralang Forest Block,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261209,Ralong,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261203,Sada,737126
+11,Sikkim,227,Namchi,1552,Ravangla,953972,Sanghanath,737121
+11,Sikkim,227,Namchi,1552,Ravangla,261222,Tingmo,737126
+11,Sikkim,227,Namchi,6400,Yangang,261241,Gagyong,737126
+11,Sikkim,227,Namchi,6400,Yangang,261232,Kau,737126
+11,Sikkim,227,Namchi,6400,Yangang,261229,Lingi,737126
+11,Sikkim,227,Namchi,6400,Yangang,261248,Lingmo Forest Block,737126
+11,Sikkim,227,Namchi,6400,Yangang,261230,Lower Paiyong,737126
+11,Sikkim,227,Namchi,6400,Yangang,261249,Yanggang Forest Block,737126
+11,Sikkim,741,Pakyong,1554,Pakyong,261354,Assam Lingzey Forest Block,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261339,Chalamthang,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261338,Kartok,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261351,Machong,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261349,Parakha,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261356,Pathing Forest Block,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261350,Riwa,737106
+11,Sikkim,741,Pakyong,6396,Rangpo,261284,Central Pandam,737132
+11,Sikkim,741,Pakyong,6396,Rangpo,261283,West Pandam,737134
+11,Sikkim,741,Pakyong,1555,Rongli,261368,Dalapchand,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261359,Lingtam,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261360,Phadamchen,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261373,Phademchen Forest Block,737131
+11,Sikkim,742,Soreng,1550,Soreng,261076,Chota Samdong,737121
+11,Sikkim,742,Soreng,1550,Soreng,261073,Suntaley,737121
+11,Sikkim,742,Soreng,1550,Soreng,261085,Tikpur,737121
+11,Sikkim,742,Soreng,1550,Soreng,261091,Upper Fambong,737121
+11,Sikkim,742,Soreng,1550,Soreng,261099,Zoom,737121
+11,Sikkim,225,Gangtok,1553,Gangtok,943192,Deorali,737101
+11,Sikkim,225,Gangtok,1553,Gangtok,261255,Kambal,737107
+11,Sikkim,225,Gangtok,1553,Gangtok,261289,Namin,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261312,Namong,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261306,Parbing,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261322,Ranipool Forest Block,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261292,Rawtey Rumtek,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261297,Rey-Mindu,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,943202,Shotak,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,943197,Sichey,737101
+11,Sikkim,225,Gangtok,1553,Gangtok,943194,Upper Burtuk,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,943206,Upper Tathangchen,737103
+11,Sikkim,225,Gangtok,7177,Rabdang,261267,Beng,737106
+11,Sikkim,225,Gangtok,7177,Rabdang,261274,Namgeythang,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261325,Sang Forest Block,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261269,Sirwani,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261272,Tshalumthang,737134
+11,Sikkim,228,Gyalshing,6398,Dentam,261023,Bongten,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261032,Dentam,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261027,Karmatar,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261029,Maneybong,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261037,Pechrek,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261022,Sapong,737113
+11,Sikkim,228,Gyalshing,1549,Gyalshing,260995,Darap,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261016,Kyongsa,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261004,Chongrang,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260980,Dubdi,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260983,Labing,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260990,Melli-Singlitam,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261013,Tashiding,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260992,Topung,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261045,Yoksam Forest Block,737111
+11,Sikkim,226,Mangan,1547,Chungthang,260930,Lachen Forest Block,737120
+11,Sikkim,226,Mangan,1547,Chungthang,260932,Lachung Forest Block,737120
+11,Sikkim,226,Mangan,1547,Chungthang,260934,Naga-Namgor,737120
+11,Sikkim,226,Mangan,6402,Dzongu,260948,Gor Taryang,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260942,Lingdem,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260975,Lower Dzongu Forest Block,737116
+11,Sikkim,226,Mangan,6402,Dzongu,943213,Salim Pakyal,737116
+11,Sikkim,226,Mangan,6401,Kabi,260972,Kabi,737116
+11,Sikkim,226,Mangan,6401,Kabi,260971,Labi,737116
+11,Sikkim,226,Mangan,6401,Kabi,260959,Lower Mangshila,737121
+11,Sikkim,226,Mangan,6401,Kabi,260963,Ramthang,737107
+11,Sikkim,226,Mangan,6401,Kabi,260965,Tumlong,737116
+11,Sikkim,226,Mangan,6401,Kabi,260958,Upper Mangshila,737121
+11,Sikkim,226,Mangan,1548,Mangan,260956,Nampatam,737116
+11,Sikkim,226,Mangan,1548,Mangan,260955,Ringhim,737116
+11,Sikkim,226,Mangan,1548,Mangan,260954,Singhik,737116
+11,Sikkim,226,Mangan,1548,Mangan,260953,Zimchung,737107
+11,Sikkim,227,Namchi,6399,Jorethang,261133,Kartikey,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261153,Paiyong,737128
+11,Sikkim,227,Namchi,6399,Jorethang,261135,Suntaley,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261119,Tinik,737126
+11,Sikkim,227,Namchi,1551,Namchi,261128,Assangthan,737126
+11,Sikkim,227,Namchi,1551,Namchi,261246,Ben,737126
+11,Sikkim,227,Namchi,1551,Namchi,261115,Kamrang,737126
+11,Sikkim,227,Namchi,1551,Namchi,261130,Mikkhola,737126
+11,Sikkim,227,Namchi,1551,Namchi,943216,Namchi Bazar,737126
+11,Sikkim,227,Namchi,1551,Namchi,261197,Namchi Forest Block,737126
+11,Sikkim,227,Namchi,1551,Namchi,261113,Pabong,737126
+11,Sikkim,227,Namchi,1551,Namchi,945210,Pabung,737126
+11,Sikkim,227,Namchi,1551,Namchi,261143,Phalidara,737126
+11,Sikkim,227,Namchi,1551,Namchi,261223,Sanghanath,737126
+11,Sikkim,227,Namchi,7542,Namthang,261171,Chuba,737126
+11,Sikkim,227,Namchi,7542,Namthang,261168,Kabrey,737126
+11,Sikkim,227,Namchi,7542,Namthang,261166,Nagi,737126
+11,Sikkim,227,Namchi,7542,Namthang,261193,Pamphok,737126
+11,Sikkim,227,Namchi,7542,Namthang,261162,Passi,737126
+11,Sikkim,227,Namchi,7542,Namthang,261158,Rabikhola,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261218,Legship,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261204,Phamtam,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261226,Sangmo,737126
+11,Sikkim,227,Namchi,6400,Yangang,261228,Sokpay,737126
+11,Sikkim,227,Namchi,6400,Yangang,261231,Upper Paiyong,737126
+11,Sikkim,227,Namchi,6400,Yangang,261243,Yangang,737126
+11,Sikkim,741,Pakyong,1554,Pakyong,261344,Amba,737133
+11,Sikkim,741,Pakyong,1554,Pakyong,261346,Bering,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261352,Chuchenpheri,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261340,Dikling-Pacheykhani,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261353,Latuk,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261341,Lossing,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,935336,Pakyong Bazar,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261348,Thekabong,737106
+11,Sikkim,741,Pakyong,6396,Rangpo,261336,East Pendam,737132
+11,Sikkim,741,Pakyong,6396,Rangpo,261335,Kamarey Bhasmey,737106
+11,Sikkim,741,Pakyong,6396,Rangpo,261282,Lingchey,737134
+11,Sikkim,741,Pakyong,6396,Rangpo,261334,Pachak,737106
+11,Sikkim,741,Pakyong,6396,Rangpo,261327,Rangpo Forest Block,737132
+11,Sikkim,741,Pakyong,6396,Rangpo,261285,Sajong,737135
+11,Sikkim,741,Pakyong,1555,Rongli,261366,Changeylakha,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261370,Mulukey,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261364,North Regu,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261361,Premlakha,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261375,Rhenock Forest Block,737133
+11,Sikkim,741,Pakyong,1555,Rongli,261357,Rolep,737131
+11,Sikkim,741,Pakyong,1555,Rongli,261374,Rongli Forest Block,737131
+11,Sikkim,742,Soreng,7178,Mangalbarey,261061,Sribadam,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261067,Suldung,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261064,Takothang,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261066,Tinzerbung,737121
+11,Sikkim,742,Soreng,1550,Soreng,261080,Burikhop (Rumbuk),737121
+11,Sikkim,742,Soreng,1550,Soreng,261074,Khanisherbong,737121
+11,Sikkim,742,Soreng,1550,Soreng,261083,Ribdi,737121
+11,Sikkim,742,Soreng,1550,Soreng,261092,Timburbong,737121
+11,Sikkim,225,Gangtok,1553,Gangtok,261296,Barbing,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,943196,Chandmari,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261290,Marchak,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,943204,Namphong,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261304,Penlong,737107
+11,Sikkim,225,Gangtok,1553,Gangtok,261307,Rongyek,737103
+11,Sikkim,225,Gangtok,1553,Gangtok,261323,Rumtek Forest Block,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261256,Samdong,737107
+11,Sikkim,225,Gangtok,1553,Gangtok,261295,Sangtong,737135
+11,Sikkim,225,Gangtok,1553,Gangtok,261303,Shotak,737121
+11,Sikkim,225,Gangtok,1553,Gangtok,261288,Tumlabong,737135
+11,Sikkim,225,Gangtok,7177,Rabdang,261275,Byang Sang,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261271,Chisopani,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261265,Dung Dung,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261268,Khamdong,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261278,Nazitam,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261273,Rabdang,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261277,Tirkutam,737134
+11,Sikkim,225,Gangtok,7177,Rabdang,261324,Tumin Forest Block,737134
+11,Sikkim,228,Gyalshing,6398,Dentam,261026,Gyaten,737113
+11,Sikkim,228,Gyalshing,6398,Dentam,261033,Sangkhu,737113
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261052,Bermiok Forest Block,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,261021,Lungzik,737111
+11,Sikkim,228,Gyalshing,1549,Gyalshing,260996,Sindrang,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261011,Gangyap,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261006,Kongri,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,261012,Lasso,737111
+11,Sikkim,228,Gyalshing,6397,Yuksom,260987,Thingling-Ii,737111
+11,Sikkim,226,Mangan,1547,Chungthang,260928,Shipyer,737120
+11,Sikkim,226,Mangan,6402,Dzongu,260949,Gnon Sandong,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260950,Hee Gyathang,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260944,Lingzya,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260946,Lum,737116
+11,Sikkim,226,Mangan,6402,Dzongu,260940,Salimpakyel,737116
+11,Sikkim,226,Mangan,6401,Kabi,260960,Namok,737121
+11,Sikkim,226,Mangan,6401,Kabi,260968,Phamtam,737116
+11,Sikkim,226,Mangan,1548,Mangan,260938,Kazor,737116
+11,Sikkim,226,Mangan,1548,Mangan,260935,Meyong,737116
+11,Sikkim,227,Namchi,6399,Jorethang,943214,Jorethang Bazar,737121
+11,Sikkim,227,Namchi,6399,Jorethang,261199,Jorethang Forest Block,737121
+11,Sikkim,227,Namchi,6399,Jorethang,945211,Malli Bazar,737128
+11,Sikkim,227,Namchi,6399,Jorethang,261200,Melli Forest Block,737128
+11,Sikkim,227,Namchi,6399,Jorethang,261121,Salghari,737126
+11,Sikkim,227,Namchi,6399,Jorethang,261127,Sangbung,737126
+11,Sikkim,227,Namchi,1551,Namchi,261181,Aifaltar,737126
+11,Sikkim,227,Namchi,1551,Namchi,261140,Boomtar,737126
+11,Sikkim,227,Namchi,1551,Namchi,261108,Chemchey,737126
+11,Sikkim,227,Namchi,1551,Namchi,261106,Chumlok,737126
+11,Sikkim,227,Namchi,1551,Namchi,261247,Deu,737126
+11,Sikkim,227,Namchi,1551,Namchi,261245,Namprik,737126
+11,Sikkim,227,Namchi,1551,Namchi,261186,Pabung (Gangchung),737126
+11,Sikkim,227,Namchi,1551,Namchi,261188,Rashep,737126
+11,Sikkim,227,Namchi,1551,Namchi,261154,Suntaley,737126
+11,Sikkim,227,Namchi,1551,Namchi,261196,Temi Forest Block,737126
+11,Sikkim,227,Namchi,7542,Namthang,261175,Burul,737126
+11,Sikkim,227,Namchi,7542,Namthang,261163,Kateng Bokrong,737126
+11,Sikkim,227,Namchi,7542,Namthang,261192,Khanamtek,737126
+11,Sikkim,227,Namchi,7542,Namthang,261195,Mamring,737126
+11,Sikkim,227,Namchi,7542,Namthang,261170,Phong,737126
+11,Sikkim,227,Namchi,7542,Namthang,261173,Ramang,737126
+11,Sikkim,227,Namchi,7542,Namthang,261179,Tokdey,737126
+11,Sikkim,227,Namchi,1552,Ravangla,261214,Bakhim,737126
+11,Sikkim,227,Namchi,6400,Yangang,261235,Kolthang,737126
+11,Sikkim,227,Namchi,6400,Yangang,261238,Niyabrum,737126
+11,Sikkim,227,Namchi,6400,Yangang,261234,Pepthang,737126
+11,Sikkim,227,Namchi,6400,Yangang,261236,Tokday,737126
+11,Sikkim,741,Pakyong,1554,Pakyong,943208,Arithang,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261347,Linkey,737106
+11,Sikkim,741,Pakyong,1554,Pakyong,261355,Pakyong Forest Block,737106
+11,Sikkim,741,Pakyong,6396,Rangpo,943211,Rangpo,737132
+11,Sikkim,741,Pakyong,1555,Rongli,261376,Rhenock,737133
+11,Sikkim,741,Pakyong,1555,Rongli,905115,Rhenock Bazar,737133
+11,Sikkim,741,Pakyong,1555,Rongli,261362,Singaneybas,737131
+11,Sikkim,742,Soreng,7178,Mangalbarey,261058,Boom,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261065,Chuchen,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261056,Jeel,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261069,Mabong,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261063,Pareng-Gaon,737121
+11,Sikkim,742,Soreng,7178,Mangalbarey,261055,Sangadorji,737121
+11,Sikkim,742,Soreng,1550,Soreng,261090,Dhallan(Daramdin),737121
+11,Sikkim,742,Soreng,1550,Soreng,904425,Dodak,737121
+11,Sikkim,742,Soreng,1550,Soreng,261100,Hilley Forest Block,737121
+11,Sikkim,742,Soreng,1550,Soreng,261088,Lungchok,737121
+11,Sikkim,742,Soreng,1550,Soreng,261084,Okhrey,737121
+11,Sikkim,742,Soreng,1550,Soreng,261101,Sombaria Forest Block,737121
