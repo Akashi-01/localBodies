@@ -1,0 +1,31 @@
+localBodyCode,localBodyName,stateCode,lb_pincodes,predicted_district,predicted_dist_name,overlap_count,total_lb_pincodes,confidence_score,inference_note,confidence_tier
+248119,Madanapalli,28,[517325],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+250433,Mango,20,[831012],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251216,Rajpipla,24,[393145],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+249975,Cooch Behar,19,[736101],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251743,Palacole,28,[534260],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+253020,Pathamadai,33,[627453],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251745,Nuzvid,28,[521201],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251988,Robertson Pet,29,[563122],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+250139,New Barrackpore,19,[700131],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+253093,Ozhukarai,34,[605005],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+250143,Dum Dum,19,"[700028, 700079, 700080, 700081]",,Unknown,0,4,0.0,No overlap found – pincodes absent from village data,NONE
+249418,Khargupur,9,[271204],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+252957,Ramanathapuram,33,[623501],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+248113,Guntakal,28,[515801],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+250450,Belpahar,21,[768218],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251762,Markapur,28,[523316],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+249851,Palasbari,18,[781128],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+277194,Nayan Gaon,3,[160103],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251982,Sidlaghatta,29,[562105],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+301014,Belsar,9,[271402],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251750,Machilipatnam Municipal Corporation,28,[521001],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251193,Godhra,24,[389001],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+252904,Vadugapatti,33,[625603],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+250458,Sundargarh,21,[770001],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+249599,Saharsa,10,[852201],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+248521,Panipat,6,[132103],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+252679,Odaiyakulam,33,[642133],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+248305,Talwara,3,[248305],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
+251488,Greater Mumbai,27,"[400001, 400002, 400003, 400004, 400005, 400006, 400007, 400008, 400009, 400010, 400011, 400012, 400013, 400014, 400015, 400016, 400017, 400018, 400020, 400021, 400025, 400026, 400027, 400030, 400031, 400032, 400033, 400034, 400035, 400037]",,Unknown,0,30,0.0,No overlap found – pincodes absent from village data,NONE
+251569,Osmanabad,27,[413501],,Unknown,0,1,0.0,No overlap found – pincodes absent from village data,NONE
