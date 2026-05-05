@@ -1,0 +1,11 @@
+metric,value
+Total NO MATCH processed,135.0
+High confidence (≥80%),135.0
+Medium confidence (50–79%),0.0
+Low confidence (<50%),0.0
+STRONG MATCH,30.0
+AMBIGUOUS,105.0
+WEAK MATCH,0.0
+Avg overlap %,100.0
+Median overlap %,100.0
+Reliability (High+Med) %,100.0
