@@ -2,7 +2,7 @@
 Final Municipality–District Mapping: Clean, Deduplicated, Reporting-Ready
 ==========================================================================
 Inputs:
-  enriched_mapping.csv            – 6,775 rows / 5,005 unique municipalities
+  enriched_mapping_full.csv            – 6,775 rows / 5,005 unique municipalities
                                     (FULL MATCH, AMBIGUOUS MATCH, NO MATCH rows;
                                      multi-district LBs have multiple rows)
   ambiguous_analysis_full.csv     – 613 unique municipalities with full overlap detail
@@ -26,7 +26,7 @@ import pandas as pd
 print("  TASK 1 – LOADING INPUT FILES \n")
 
 
-enriched  = pd.read_csv("enriched_mapping.csv")
+enriched  = pd.read_csv("enriched_mapping_full.csv")
 ambiguous = pd.read_csv("ambiguous_analysis_full.csv")
 no_match  = pd.read_csv("no_match_ai_predictions_full.csv")
 

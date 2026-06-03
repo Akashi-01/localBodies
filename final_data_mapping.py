@@ -7,7 +7,7 @@ Tasks:
   3. AI-based prediction for all 135 NO MATCH cases
 
 Outputs:
-  enriched_mapping.csv
+  enriched_mapping_full.csv
   ambiguous_analysis_full.csv
   no_match_ai_predictions_full.csv
 
@@ -182,8 +182,8 @@ for st in ["FULL MATCH", "AMBIGUOUS MATCH", "NO MATCH"]:
     print(f"  [{st}]")
     print("  " + sample.to_string(index=False))
 
-enriched_df.to_csv("enriched_mapping.csv", index=False)
-print("\n  ✓ enriched_mapping.csv saved")
+enriched_df.to_csv("enriched_mapping_full.csv", index=False)
+print("\n  ✓ enriched_mapping_full.csv saved")
 
 #%%
 # TASK 2: FULL AMBIGUOUS MATCH ANALYSIS (all 613 cases)
@@ -533,7 +533,7 @@ print(f"""
 print("=" * 70)
 print("  ALL OUTPUTS SAVED")
 print("=" * 70)
-print("  enriched_mapping.csv")
+print("  enriched_mapping_full.csv")
 print("  ambiguous_analysis_full.csv")
 print("  no_match_ai_predictions_full.csv")
 print("=" * 70)
